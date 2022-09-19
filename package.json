@@ -1,0 +1,16 @@
+{
+    "name": "dzx atom theme",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "description": "ทดสอบสร้าง Theme atom",
+    "keywords": [
+        "darkxee",
+        "dzx",
+        "artifex.light"
+    ],
+    "repository": "https://github.com/",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
